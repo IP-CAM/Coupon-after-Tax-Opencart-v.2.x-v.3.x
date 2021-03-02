@@ -15,5 +15,5 @@ The "Coupon After Tax" extension is for Opencart CMS 2.3.x/3.x versions. The ext
 
 ## Links
 * [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39859)
-* [GitHub](https://git.io/JJ8wg)
+* [GitHub](https://git.io/Jtjdb)
 
