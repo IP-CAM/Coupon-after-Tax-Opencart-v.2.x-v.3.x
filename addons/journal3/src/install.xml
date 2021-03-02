@@ -12,7 +12,7 @@ code package and also available on the project page: https://git.io/JtjFO.
 	<version>1.0.0</version>
 	<author>Andrii Burkatskyi aka underr</author>
 	<link>https://git.io/JtjHq</link>
-    <file error="log" path="catalog/model/journal3">
+    <file error="log" path="catalog/model/journal3/checkout.php">
         <operation error="log">
             <search>
                 <![CDATA[$results = $this->model_setting_extension->getExtensions('total');]]>
