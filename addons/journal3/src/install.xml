@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+This file is part of "Coupon After Tax" project and subject to the terms
+and conditions defined in file "LICENSE.txt", which is part of this source
+code package and also available on the project page: https://git.io/JtjFO.
+-->
+
+<modification>
+	<name>[underr] Compatibility Addon: Coupon After Tax > Journal3</name>
+	<code>coupon-after-tax-j3</code>
+	<version>1.0.0</version>
+	<author>Andrii Burkatskyi aka underr</author>
+	<link>https://git.io/JtjHq</link>
+    <file error="log" path="catalog/model/journal3">
+        <operation error="log">
+            <search>
+                <![CDATA[$results = $this->model_setting_extension->getExtensions('total');]]>
+            </search>
+            <add position="after">
+                <![CDATA[			/// <<< Coupon After Tax
+			if ($this->config->get('total_coupon_status') && $this->config->get('total_coupon_after_tax')) {
+				$tax_order = (int)$this->config->get('total_tax_sort_order');
+				$tot_order = (int)$this->config->get('total_total_sort_order');
+				$mod_order = (int)$this->config->get('total_coupon_sort_order');
+
+				if ($mod_order <= $tax_order) {
+					$this->config->set('total_coupon_sort_order', $tax_order + 1);
+
+					if ($mod_order >= $tot_order) {
+						$this->config->set('total_total_sort_order', $tot_order + 10);
+					}
+				}
+			}
+			/// Coupon After Tax >>>]]>
+            </add>
+        </operation>
+    </file>
+</modification>
