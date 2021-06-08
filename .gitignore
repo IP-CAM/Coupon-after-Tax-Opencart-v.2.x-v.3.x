@@ -10,6 +10,5 @@ img
 makefile
 *.code-workspace
 *.bb
-*.php_cs
 *.pwd
 *.zip
