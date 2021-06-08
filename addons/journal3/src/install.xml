@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-This file is part of "Coupon After Tax" project and subject to the terms
-and conditions defined in file "LICENSE.txt", which is part of this source
-code package and also available on the project page: https://git.io/JtjFO.
+This file is subject to the terms and conditions defined in the "LICENSE.txt"
+file, which is part of this source code package and is also available on the
+page: https://raw.githubusercontent.com/ocmod-space/license/main/LICENSE.txt.
 -->
 
 <modification>
-	<name>[underr] Compatibility Addon: Coupon After Tax > Journal3</name>
-	<code>coupon-after-tax-j3</code>
+	<name>[underr] Coupon After Tax > Journal3</name>
+	<code>coupon-after-tax--journal3</code>
 	<version>1.0.0</version>
 	<author>Andrii Burkatskyi aka underr</author>
-	<link>https://git.io/JtjHq</link>
+	<link>https://www.opencart.com/index.php?route=marketplace/extension&amp;filter_member=ocmod.space</link>
     <file error="log" path="catalog/model/journal3/checkout.php">
         <operation error="log">
             <search>

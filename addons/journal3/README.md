@@ -1,7 +1,7 @@
-# Journa3 Compatibility Addon
+# Journal3 add-on
 
 ## Description
-This is an addon to link Total Order Discount+ module with the Journal 3 theme.
+The addon for linking "Coupon After Tax" extensions to Journal 3 template
 
 ## License
-Licensed under the [MIT License](https://git.io/JtjFW)
+Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/license/main/LICENSE.txt)

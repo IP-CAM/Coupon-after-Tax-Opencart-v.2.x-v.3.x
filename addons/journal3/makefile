@@ -1,4 +1,4 @@
-mod_name=coupon-after-tax-$(shell basename `pwd`)
+mod_name=coupon-after-tax--$(shell basename `pwd`)
 bin_dir=bin
 img_dir=img
 src_dir=src
