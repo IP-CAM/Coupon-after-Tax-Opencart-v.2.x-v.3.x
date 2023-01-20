@@ -25,3 +25,4 @@
 
 ## How to configure
 * Admin > Extensions > Extensions > Order Totals > Coupon > [Edit]
+    After Tax > Enabled
