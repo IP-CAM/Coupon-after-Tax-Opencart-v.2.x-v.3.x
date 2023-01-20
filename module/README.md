@@ -13,7 +13,7 @@ Compatible with OpenCart 2.3.x-3.x.
 * [Front](http://ocmod.freevar.com/oc3020/c) - COUPON(10%): SALE10
 
 ## License
-[End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-coupon-after-tax/master/coupon-after-tax/EULA.txt)
+[End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-coupon-after-tax/main/coupon-after-tax/EULA.txt)
 
 ## Download
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39859)
