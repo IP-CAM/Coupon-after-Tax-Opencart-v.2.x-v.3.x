@@ -1,3 +1,3 @@
-# Coupon After Tax add-ons
+# Addons
 
-Free add-ons to add some specific features or compatibility with some 3rd-party templates
+Various add-ons to add additional features, compatibility with other OpenCart modules or third-party templates.

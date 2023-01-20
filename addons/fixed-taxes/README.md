@@ -1,7 +1,4 @@
-# Fixed Taxes add-on
+# Coupon After Tax|Fixed Taxes
 
 ## Description
-The addon to enable "Coupon After Tax" to work with fixed taxes
-
-## License
-Licensed under the [MIT License](https://raw.githubusercontent.com/ocmod-space/license/main/LICENSE.txt)
+An addon to enable **Coupon After Tax** to work with fixed taxes
