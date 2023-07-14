@@ -9,12 +9,12 @@ Compatible with OpenCart 2.3.x-3.x.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/c/admin/index.php?route=extension/total/coupon)
-* [Front](http://ocmod.freevar.com/oc3020/c) - COUPON(10%): SALE10
+* Extension [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/total/coupon).
+* [Store Front](https://demo.ocmod.space/a) - use coupon **SALE10** to test 10% discount.
 
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-coupon-after-tax/main/EULA.txt)
 
-## Download
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39859)
-* [OCMod Space](https://www.ocmod.space/coupon-after-tax).
+## Links
+* **Coupon After Tax** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39859).
+* [**Coupon After Tax**](https://www.ocmod.space/coupon-after-tax) web page.
